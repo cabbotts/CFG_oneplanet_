@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.349);
+    padding: 2px 70px;
+}
+
+.navigation {
+    background-color:rgba(176, 196, 222, 0.363);
+    padding: 20px 20px;
+}
+
+.navigation a {
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.navigation a:hover {
+    font-weight: bold;
+    color: rgb(174, 245, 239);
+}
+
+
+.main_title {
+    font-weight: bolder;
+    font-size: 75px;
+    text-align: center;
+    color: darkgreen;
+}
+
+.home_text {
+    font-size: 24px;
+    text-align: left;
+    display: flex;
+    padding: 30px;
+    margin-left: 10px;
+}
+
+
+.main_body_home {
+    background-color: white;
+    padding: 20px 20px;
+}
